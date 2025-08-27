@@ -1,6 +1,6 @@
 [nix]
 channel = "stable-25_05"
-packages = ["jq", "nix-info-tested"]
+packages = ["jq", "nix-info-tested", "nodejs_20"]
 
 [workflows]
 runButton = "Run"
